@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working on [Adevinta Spain](https://www.adevinta.com/es/spain/)
 - 🌱 I’m co-founder of [Twin&Chic](https://twinandchic.com/es/)
-- 🤓 I’m currently learning GraphQL and Amazon Amplify
+- 🤓 Always learning new things
 
 ![Rafa's github stats](https://github-readme-stats.vercel.app/api?username=rmoralp&show_icons=true)
