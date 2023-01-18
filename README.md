@@ -1,6 +1,6 @@
 ### Hi there I'm [Rafa Moral](https://rmoral.com) 👋
 
-- 🔭 I’m currently working on [OLX Autos]([https://www.adevinta.com/es/spain/](https://www.olxgroup.com/brands/olx-autos))
+- 🔭 I’m currently working on [OLX Autos](https://www.olxgroup.com/brands/olx-autos)
 - 🌱 I’m co-founder of [Twin&Chic](https://twinandchic.com/es/)
 - 🤓 Always learning new things
 
